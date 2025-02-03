@@ -23,5 +23,5 @@ cd SecretProjects
 Install dependencies
 
 Start the application:
-node index.js
+node index.js.
 
